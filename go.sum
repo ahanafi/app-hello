@@ -1,0 +1,6 @@
+github.com/ahanafi/hello-go v1.0.0 h1:tnVkLXbzA/1gwwci//GlWMvC6saE2L6U5Qv+ys6Xlhg=
+github.com/ahanafi/hello-go v1.0.0/go.mod h1:rEvdRUcfm5Aahjzvl8YGk3Fa/2eKod46hBlu2728z6Q=
+github.com/ahanafi/hello-go v1.1.0 h1:XTjmam8Wd0YfCHJXj4OLH+RL5p3dIIX/WjbaPAh/Mms=
+github.com/ahanafi/hello-go v1.1.0/go.mod h1:rEvdRUcfm5Aahjzvl8YGk3Fa/2eKod46hBlu2728z6Q=
+github.com/ahanafi/hello-go/v2 v2.0.0 h1:9sFsExunyHCWvrtm4nfpRGorbVlbqjEit21A3NbH9Vw=
+github.com/ahanafi/hello-go/v2 v2.0.0/go.mod h1:MD7L+ZHJkQTuGmrfoRX5o/G2Z60LDZsxznWvsoBwNlc=
